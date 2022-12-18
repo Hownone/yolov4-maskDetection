@@ -1,0 +1,4 @@
+# yolov4-maskDetection
+基于YOLOv4和PyTorch的人脸口罩识别
+
+需要在\VOCdevkit\VOC2007\JPEGImages文件夹中放入新的数据集自行进行模型训练
