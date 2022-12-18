@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>test_00003693.jpg</filename>
+	<path>E:\mask\sample\yolov4-pytorch\VOCdevkit\VOC2007\JPEGImages\test_00003693.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nomask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>55</ymin>
+			<xmax>135</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>
